@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+
+  <sim>
+    <model>
+      <livery>
+        <name type="string">RAF2</name>
+        <texture>Liveries/RAF2.png</texture>
+   
+   
+      </livery>
+    </model>
+	<rendering>
+    <refl_correction type="string">-0.42</refl_correction>
+    </rendering>
+  </sim>
+
+</PropertyList>
